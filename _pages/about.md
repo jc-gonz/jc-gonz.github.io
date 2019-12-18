@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Ph.D. candidate in the McKetta Departent of Chemical Engineering. 
+I'm currently a Ph.D. candidate in the McKetta Departent of Chemical Engineering at the University of Texas at Austin. 
 
 My research interest include:
 
